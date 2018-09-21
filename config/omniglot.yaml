@@ -1,0 +1,10 @@
+dataset: omniglot
+num_epochs: 25
+num_episodes: 100
+num_ways_train: 60
+num_support_train: 5
+num_query_train: 5
+num_ways_val: 5
+num_support_val: 5
+num_query_val: 15
+seed: 7
