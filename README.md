@@ -16,7 +16,7 @@ performed by computing distances to prototype representations of each class.
 
 ## Installation
 
-Requiring `Python 3.6`, because of dependence on `typing` anf `f-string`,
+Requiring `Python 3.6`, because of dependence on `typing` and `f-string`,
 execute from the root of the project:
 
 ```bash
